@@ -11,6 +11,7 @@ Top Badges
     </a>
 </p>
 
+
 <!-- 
 Spaces
 -->
@@ -43,4 +44,3 @@ Snake animation
 -->
   <a href='https://github.com/Callumgm'>
         <img alt='Snake Animation' src='https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg'/>
-  
