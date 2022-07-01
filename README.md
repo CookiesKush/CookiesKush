@@ -15,7 +15,10 @@ Top Badges
 <!-- 
 Spaces
 -->
-<br>
+
+```sh-session
+pip install cookies_package
+```
 <br>
 
 <!-- 
