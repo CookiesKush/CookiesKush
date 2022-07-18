@@ -21,9 +21,6 @@ pip install cookies_package
         <img alt='Discord User' src='https://discord.c99.nl/widget/theme-1/982338759632756757.png'/>
 </p> 
 
-<p align="middle">
-https://github.com/Callumgm/Cookies_RAT
-</p> 
 
 
 <div style="display: inline_block" align="middle"><br>
