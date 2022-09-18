@@ -31,6 +31,13 @@ pip install cookies_package
     <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-  
+<p align="middle">
+<br>
+<a align="center" href="https://ko-fi.com/R5R5F3GCZ">
+  <img    src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Donate">
+</a>
+</p> 
+
+
   <a href='https://github.com/Callumgm'>
         <img alt='Snake Animation' src='https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg'/>
