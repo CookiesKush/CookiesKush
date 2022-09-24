@@ -7,13 +7,6 @@
         <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/Callumgm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
     </a>
 </p>
-
-```sh-session
-pip install cookies_package
-```
-<br>
-
-
 <p align="middle">
     <img src='https://github-readme-streak-stats.herokuapp.com?user=Callumgm&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D'/>
     <br>
