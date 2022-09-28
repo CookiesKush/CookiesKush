@@ -11,7 +11,7 @@
     <img src='https://github-readme-streak-stats.herokuapp.com?user=Callumgm&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D'/>
     <br>
     <a href='http://cookiesservices.xyz'>
-        <img alt='Discord User' src='https://discord.c99.nl/widget/theme-1/982338759632756757.png'/>
+        <img alt='Discord User' src='https://discord.c99.nl/widget/theme-4/984231236262313994.png'/>
 </p> 
 
 
