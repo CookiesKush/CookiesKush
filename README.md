@@ -1,13 +1,13 @@
 <p align='center'>
-    <a href='https://github.com/Callumgm?tab=repositories&sort=stargazers'>
-        <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Callumgm'/>
+    <a href='https://github.com/CookiesKush?tab=repositories&sort=stargazers'>
+        <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/CookiesKush'/>
     </a>
-    <a href='https://github.com/Callumgm?tab=followers'>
-        <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/Callumgm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
+    <a href='https://github.com/CookiesKush?tab=followers'>
+        <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/CookiesKush?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
     </a>
 </p>
 <p align="middle">
-    <img src='https://github-readme-streak-stats.herokuapp.com?user=Callumgm&theme=onedark_duo&hide_border=true&date_format=j%20M%5B%20Y%5D'/>
+    <img src='https://github-readme-streak-stats.herokuapp.com?user=CookiesKush&theme=onedark_duo&hide_border=true&date_format=j%20M%5B%20Y%5D'/>
     <br>
     <a href='http://cookiesservices.xyz'>
         <img alt='Discord User' src='https://discord.c99.nl/widget/theme-4/984231236262313994.png'/>
