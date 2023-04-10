@@ -9,7 +9,7 @@
 <p align="middle">
     <img src='https://github-readme-streak-stats.herokuapp.com?user=CookiesKush&theme=onedark_duo&hide_border=true&date_format=j%20M%5B%20Y%5D'/>
     <br>
-    <a href='http://cookiesservices.xyz'>
+    <a href='http://cookiesservices.win'>
         <img alt='Discord User' src='https://discord.c99.nl/widget/theme-4/984231236262313994.png'/>
 </p> 
 
