@@ -9,8 +9,13 @@
 <p align="middle">
     <img src='https://github-readme-streak-stats.herokuapp.com?user=CookiesKush&theme=onedark_duo&hide_border=true&date_format=j%20M%5B%20Y%5D'/>
     <br>
+</p>
+<p align="middle">
+    <img src='https://github-profile-trophy.vercel.app/?username=CookiesKush&theme=onedark'/>
+    <br>
+    <br>
     <a href='http://cookiesservices.win'>
-        <img alt='Discord User' src='https://discord.c99.nl/widget/theme-4/1069291785685307392.png'/>
+        <img src='https://discord.c99.nl/widget/theme-4/1069291785685307392.png'/>
 </p> 
 
 
@@ -25,6 +30,7 @@
     <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
 </div>
 
-
+<p align="middle">
   <a href='https://github.com/Callumgm'>
         <img alt='Snake Animation' src='https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg'/>
+</p> 
