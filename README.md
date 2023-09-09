@@ -15,7 +15,7 @@
     <br>
     <br>
     <a href='http://cookiesservices.win'>
-        <img src='https://discord.c99.nl/widget/theme-4/1069291785685307392.png'/>
+        <img src='https://discord.c99.nl/widget/theme-4/1126965630420140104.png'/>
 </p> 
 
 
