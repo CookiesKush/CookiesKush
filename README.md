@@ -32,5 +32,5 @@
 
 <p align="middle">
   <a href='https://github.com/Callumgm'>
-        <img alt='Snake Animation' src='https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg'/>
+        <img alt='Snake Animation' src='https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg'/>
 </p> 
