@@ -6,17 +6,19 @@
         <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/CookiesKush?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
     </a>
 </p>
+
 <p align="middle">
     <img src='https://github-readme-streak-stats.herokuapp.com?user=CookiesKush&theme=onedark_duo&hide_border=true&date_format=j%20M%5B%20Y%5D'/>
     <br>
 </p>
-<!-- <p align="middle">
+
+<p align="middle">
     <img src='https://github-profile-trophy.vercel.app/?username=CookiesKush&theme=onedark'/>
     <br>
     <br>
     <a href='http://cookiesservices.win'>
         <img src='https://discord.c99.nl/widget/theme-4/1126965630420140104.png'/>
-</p>  -->
+</p>
 
 
 
